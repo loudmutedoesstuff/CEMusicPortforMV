@@ -1,0 +1,51 @@
+Adds the additional music from FTL: Captain's Edition to FTL Multiverse.
+Definitely Compatible with MV 5.5.x, and forwards compatible until the sound, credits, or jukebox system get changed. Should also be backwards compatible until one of those are also changed, so I believe this works with all 5.x versions of multiverse.
+
+Patch after Multiverse, I don't think position in the addon order matters.
+
+Also included in the metadata.xml (edited for github):
+Ports the music from Captain's Edition to Multiverse. You can play them in the jukebox, but they'll also appear in the following sectors:
+
+- Light - Auto, Spider, Vagabond, Kleptocracy
+- Overpass - Nebula, Duskbringer, Coalition
+- Polymers - Separatist, Pirate, Mining, Abandoned
+- Reality - Union, Non-Badlands Outcast, Confederate, Republican, Imperial (Non-New-Homelands), Protectorate
+- Zombie - Rebel, Wentworth HQ, Dynasty, Royal Nebula
+- Rusty Cans - Gathering, Harmony, Free Mantis, Ministry
+- Electric Mountain - Federation, Militia, Illesctrian Oasis, Stargrove
+- Deepspace Sonar - Hacked, Geniocracy Science, Guild Territory, Hive, Imperial New-Homelands, Geniocracy
+- Cosmic Pulse - Lanius Swarmlands, Theocracy, Theocracy Badlands, Lost Sun Stronghold
+- My Mind is Glowing - Crystalline Origins
+
+All tracks were released as a CC-BY-NC-SA 3.0 except for Sardonica's tracks (and maybe Rusty Cans), which were released as CC-BY-SA 3.0. I can't find the Creative Commons for Rusty Cans so I don't mean to steal in that case (Sorry!).
+
+CC-BY-NC-SA 3.0: https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+
+List of Tracks (and Links, by Alphabetical Order):
+
+- Aaron Opfer - Rusty Cans (Battle) (as Cans (Battle))
+- Aaron Opfer - Rusty Cans (Explore) (as Cans (Explore))
+- Ben Prunty - Chromatic T-Rex (https://benprunty.bandcamp.com/album/chromatic-t-rex)
+  - 03 Serious Music is Serious (as Electric Mountain (Explore)) (https://benprunty.bandcamp.com/track/serious-music-is-serious)
+  - 04 Electric Mountain (as Electric Mountain (Battle) (https://benprunty.bandcamp.com/track/electric-mountain)
+  - 11 My Mind is Glowing (https://benprunty.bandcamp.com/track/my-mind-is-glowing)
+- Comet Hunter - Deepspace Sonar A (as Deepspace Sonar (Explore)) (https://www.youtube.com/watch?v=i2yPaFCryQg)
+- Comet Hunter - Deepspace Sonar B (as Deepspace Sonar (Battle)) (https://www.youtube.com/watch?v=Ny0Qrdvp1C4)
+- Comet Hunter - Cosmic Pulse A (as Cosmic Pulse (Explore)) (https://www.youtube.com/watch?v=Xjq7FPgaFZU)
+- Comet Hunter - Cosmic Pulse B (as Cosmic Pulse (Battle)) (https://www.youtube.com/watch?v=--G93UCSKaU)
+- Psicotropicodelia - Era of the Dead (https://psicotropicodelia.com/release/ptdm003)
+  - 15 Garage (as Overpass (Battle))
+  - 20 Overpass (as Overpass (Explore))
+  - 27 Zombies (Part 2) (as Zombies (Battle))
+  - 28 School (as Zombies (Explore))
+- Sardonica - Polymerized City (Single) (https://www.jamendo.com/album/83329/polymerised-city-single)
+  - 2 Polymerized City (Bobby Vanilla Edit) (as Polymers (Battle)) (https://www.jamendo.com/track/713652/polymerised-city-bobby-vanilla-edit)
+- Sardonica - Through to Reality (https://www.jamendo.com/album/78416/through-to-reality)
+  - 1 Polymers (as Polymers (Explore)) (https://www.jamendo.com/track/675476/polymers)
+  - 2 Through to Reality (Chia's Mix) (as Reality (Battle)) (https://www.jamendo.com/track/675479/through-to-reality-chia-s-mix)
+  - 6 Through to Reality (as Reality (Explore)) (https://www.jamendo.com/track/675482/through-to-reality-original)
+- SoLaRiS - Music Inspired by The Walking Dead (https://www.jamendo.com/album/122353/music-inspired-by-the-walking-dead)
+  - 4 Moving On (as Light (Battle)) (https://www.jamendo.com/track/1038770/moving-on)
+  - 5 Light In the Darkness (as Light (Explore)) (https://www.jamendo.com/track/1038768/light-in-the-darkness)
