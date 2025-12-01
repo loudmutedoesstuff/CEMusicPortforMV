@@ -303,7 +303,7 @@
 	<!--Guild Territory-->
 	<mod:findName type="sectorDescription" name="SECTOR_CLAN_UNIQUE">
 		<mod:findLike type="trackList">
-			<mod-append:track>electric</mod-append:track>
+			<mod-append:track>sonar</mod-append:track>
 		</mod:findLike>
 	</mod:findName>
 	<!--Imperial New-Homelands-->
@@ -370,7 +370,7 @@
 	<!--My Mind is Glowing-->
 	<mod:findName type="sectorDescription" name="SECRET_ORIGINS">
 		<mod:findLike type="trackList">
-			<mod-append:track>pulse</mod-append:track>
+			<mod-append:track>glowing</mod-append:track>
 		</mod:findLike>
 	</mod:findName>
 </FTL>
