@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FTL>
+	<!--CE Music for MV-->
+	<!--Music List : CE Sector(s)                 : MV Sector(s)-->
+	<!--Light      : Civ, Auto                    : Auto, Spider, Vagabond, Kleptocracy-->
+	<!--Overpass   : Hazard, AI, Quarantine       : Nebula, Duskbringer, Coalition-->
+	<!--Poly/imers : Industrial, AI, Auto         : Separatist, Pirate, Mining, Abandoned-->
+	<!--Reality    : Fed, Industrial, Civ         : Union, Outcast (Non-Badlands), Confederate, Republican, Imperial (Non-New-Homelands), Protectorate-->
+	<!--Zombie     : Hazard, AI, Quarantine       : Rebel, Wentworth HQ, Dynasty, Royal Nebula-->
+	<!--Cans       : Civ                          : Gathering, Harmony, Free Mantis, Ministry-->
+	<!--Electric   : Fed                          : Federation, Militia, Illesctrian Oasis, Stargrove-->
+	<!--Sonar      : Fed, Industrial, Hazard      : Hacked, Geniocracy Science, Guild Territory, Hive, Imperial New-Homelands, Geniocracy-->
+	<!--Pulse      : Industrial, Quarantine, Auto : Lanius Swarmlands, Theocracy, Lost Sun Stronghold, Theocracy Badlands-->
+	<!--Glowing    : None                         : Crystalline Origins -->
+
+	<!--Light-->
+	<!--Auto-->
+	<mod:findName type="sectorDescription" name="SECTOR_AUTO">
+		<mod:findLike type="trackList">
+			<mod-append:track>light</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_AUTO_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>light</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Spider-->
+	<mod:findName type="sectorDescription" name="SECRET_SPIDER">
+		<mod:findLike type="trackList">
+			<mod-append:track>light</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Vagabond-->
+	<mod:findName type="sectorDescription" name="SECTOR_VAGABOND">
+		<mod:findLike type="trackList">
+			<mod-append:track>light</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_VAGABOND_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>light</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Kleptocracy-->
+	<mod:findName type="sectorDescription" name="SECTOR_KLEPTOCRACY">
+		<mod:findLike type="trackList">
+			<mod-append:track>light</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_KLEPTOCRACY_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>light</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+
+	<!--Overpass-->
+	<!--Nebula-->
+	<mod:findName type="sectorDescription" name="SECTOR_UNEXPLORED_GENERIC">
+		<mod:findLike type="trackList">
+			<mod-append:track>overpass</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Duskbringer-->
+	<mod:findName type="sectorDescription" name="SECTOR_DUSKBRINGER">
+		<mod:findLike type="trackList">
+			<mod-append:track>overpass</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_DUSKBRINGER_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>overpass</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Coalition-->
+	<mod:findName type="sectorDescription" name="SECTOR_COALITION">
+		<mod:findLike type="trackList">
+			<mod-append:track>overpass</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_COALITION_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>overpass</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+
+	<!--Poly/imers-->
+	<!--Separatist-->
+	<mod:findName type="sectorDescription" name="SECTOR_SEPARATIST">
+		<mod:findLike type="trackList">
+			<mod-append:track>polymers</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_SEPARATIST_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>polymers</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Pirate-->
+	<mod:findName type="sectorDescription" name="SECTOR_PIRATE">
+		<mod:findLike type="trackList">
+			<mod-append:track>polymers</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_PIRATE_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>polymers</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Mining-->
+	<mod:findName type="sectorDescription" name="SECTOR_ASTEROID_GENERIC">
+		<mod:findLike type="trackList">
+			<mod-append:track>polymers</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Abandoned-->
+	<mod:findName type="sectorDescription" name="SECTOR_ABANDONED_GENERIC">
+		<mod:findLike type="trackList">
+			<mod-append:track>polymers</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+
+	<!--Reality--> <!--Given to the people who are in pretty bad situations.-->
+	<!--Union-->
+	<mod:findName type="sectorDescription" name="SECTOR_UNION">
+		<mod:findLike type="trackList">
+			<mod-append:track>reality</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_UNION_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>reality</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Non-Badlands Outcast-->
+	<mod:findName type="sectorDescription" name="SECTOR_OUTCAST">
+		<mod:findLike type="trackList">
+			<mod-append:track>reality</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Confederate-->
+	<mod:findName type="sectorDescription" name="SECTOR_CONFEDERATE">
+		<mod:findLike type="trackList">
+			<mod-append:track>reality</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_CONFEDERATE_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>reality</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Republican-->
+	<mod:findName type="sectorDescription" name="SECTOR_REPUBLIC">
+		<mod:findLike type="trackList">
+			<mod-append:track>reality</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_REPUBLIC_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>reality</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Generic Imperial-->
+	<mod:findName type="sectorDescription" name="SECTOR_IMPERIAL">
+		<mod:findLike type="trackList">
+			<mod-append:track>reality</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Jerome Protectorate-->
+	<mod:findName type="sectorDescription" name="SECRET_JERRY">
+		<mod:findLike type="trackList">
+			<mod-append:track>reality</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+
+	<!--Zombie-->
+	<!--Rebel-->
+	<mod:findName type="sectorDescription" name="SECTOR_REBEL">
+		<mod:findLike type="trackList">
+			<mod-append:track>zombie</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_REBEL_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>zombie</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Wentworth HQ-->
+	<mod:findName type="sectorDescription" name="SECRET_ESTATE">
+		<mod:findLike type="trackList">
+			<mod-append:track>zombie</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Dynasty-->
+	<mod:findName type="sectorDescription" name="SECTOR_DYNASTY">
+		<mod:findLike type="trackList">
+			<mod-append:track>zombie</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_DYNASTY_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>zombie</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Royal Nebula-->
+	<mod:findName type="sectorDescription" name="SECRET_NIGHTS">
+		<mod:findLike type="trackList">
+			<mod-append:track>zombie</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+
+	<!--Rusty Cans--> <!--Federation Allies!-->
+	<!--Gathering-->
+	<mod:findName type="sectorDescription" name="SECTOR_GATHERING">
+		<mod:findLike type="trackList">
+			<mod-append:track>cans</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_GATHERING_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>cans</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Harmony-->
+	<mod:findName type="sectorDescription" name="SECTOR_HARMONY">
+		<mod:findLike type="trackList">
+			<mod-append:track>cans</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_HARMONY_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>cans</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Free Mantis-->
+	<mod:findName type="sectorDescription" name="SECTOR_FREEMANTIS">
+		<mod:findLike type="trackList">
+			<mod-append:track>cans</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_FREEMANTIS_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>cans</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Ministry-->
+	<mod:findName type="sectorDescription" name="SECTOR_MINISTRY">
+		<mod:findLike type="trackList">
+			<mod-append:track>cans</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_MINISTRY_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>cans</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+
+	<!--Electric Mountain-->
+	<!--Federation-->
+	<mod:findName type="sectorDescription" name="SECTOR_FEDERATION">
+		<mod:findLike type="trackList">
+			<mod-append:track>electric</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_FEDERATION_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>electric</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Militia-->
+	<mod:findName type="sectorDescription" name="SECTOR_MILITIA_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>electric</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Illesctrian Oasis-->
+	<mod:findName type="sectorDescription" name="SECTOR_MONK_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>electric</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Stargrove-->
+	<mod:findName type="sectorDescription" name="SECTOR_STARGROVE_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>electric</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	
+
+	<!--Deepspace Sonar-->
+	<!--Hacked Civilian-->
+	<mod:findName type="sectorDescription" name="SECTOR_HACKER_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>sonar</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Geniocracy Science-->
+	<mod:findName type="sectorDescription" name="SECTOR_FEDERATION_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>sonar</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Guild Territory-->
+	<mod:findName type="sectorDescription" name="SECTOR_CLAN_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>electric</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Imperial New-Homelands-->
+	<mod:findName type="sectorDescription" name="SECTOR_IMPERIAL_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>sonar</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Hive-->
+	<mod:findName type="sectorDescription" name="SECTOR_HIVE">
+		<mod:findLike type="trackList">
+			<mod-append:track>sonar</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_HIVE_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>sonar</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Geniocracy-->
+	<mod:findName type="sectorDescription" name="SECTOR_GENIOCRACY">
+		<mod:findLike type="trackList">
+			<mod-append:track>sonar</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_GENIOCRACY_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>sonar</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+
+	<!--Cosmic Pulse-->
+	<!--Lanius Swarmlands-->
+	<mod:findName type="sectorDescription" name="SECTOR_LANIUS_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>pulse</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Theocracy Badlands-->
+	<mod:findName type="sectorDescription" name="SECTOR_OUTCAST_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>pulse</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Lost Sun Stronghold-->
+	<mod:findName type="sectorDescription" name="SECTOR_LOSTSUN_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>pulse</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<!--Here is where I would put an SSLG sector... if we had one!-->
+	<!--Theocracy-->
+	<mod:findName type="sectorDescription" name="SECTOR_THEOCRACY">
+		<mod:findLike type="trackList">
+			<mod-append:track>pulse</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECTOR_THEOCRACY_UNIQUE">
+		<mod:findLike type="trackList">
+			<mod-append:track>pulse</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+
+	<!--My Mind is Glowing-->
+	<mod:findName type="sectorDescription" name="SECRET_ORIGINS">
+		<mod:findLike type="trackList">
+			<mod-append:track>pulse</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
+</FTL>
+
