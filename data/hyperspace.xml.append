@@ -1,0 +1,23 @@
+<FTL>
+    <mod:findLike type="customCredits">
+        <mod-append:text id="credits_ce_music" fontSize="18" horizontal="640" spacing="60" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_cans" fontSize="14" horizontal="640" spacing="90" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_cans_name" fontSize="18" horizontal="640" spacing="90" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_electric" fontSize="14" horizontal="640" spacing="60" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_glowing" fontSize="14" horizontal="640" spacing="90" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_electric_glowing_name" fontSize="18" horizontal="640" spacing="90" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_sonar" fontSize="14" horizontal="640" spacing="60" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_pulse" fontSize="14" horizontal="640" spacing="90" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_sonar_pulse_name" fontSize="18" horizontal="640" spacing="90" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_overpass" fontSize="14" horizontal="640" spacing="60" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_zombie" fontSize="14" horizontal="640" spacing="90" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_overpass_zombie_name" fontSize="18" horizontal="640" spacing="90" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_polymers" fontSize="14" horizontal="640" spacing="60" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_reality" fontSize="14" horizontal="640" spacing="90" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_polymers_reality_name" fontSize="18" horizontal="640" spacing="90" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_light" fontSize="14" horizontal="640" spacing="90" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_light_name" fontSize="18" horizontal="640" spacing="90" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_port" fontSize="14" horizontal="640" spacing="60" lineLenght="750" />
+        <mod-append:text id="credits_ce_music_port_name" fontSize="18" horizontal="640" spacing="90" lineLenght="750"/>
+    </mod:findLike>
+</FTL>
