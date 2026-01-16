@@ -373,5 +373,10 @@
 			<mod-append:track>glowing</mod-append:track>
 		</mod:findLike>
 	</mod:findName>
+	<mod:findName type="sectorDescription" name="SECRET_ORIGINS_RUWEN">
+		<mod:findLike type="trackList">
+			<mod-append:track>glowing</mod-append:track>
+		</mod:findLike>
+	</mod:findName>
 </FTL>
 
